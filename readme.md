@@ -1,8 +1,8 @@
-# PROJETO ALUNO
-aluno 1
-## comandos de linux
-- Git
-- GitHub
-- Markdown
+# PROJETO ALUNO GIT
 
-## projeto sendo estruturado
+OLA
+
+## TECNOLOGO
+-git
+-github
+-marldown
