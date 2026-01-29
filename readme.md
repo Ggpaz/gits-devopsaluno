@@ -6,3 +6,5 @@ OLA
 -git
 -github
 -marldown
+
+## como trabalhar com git
